@@ -1,5 +1,5 @@
 ﻿# lab-for-ssu
-## Устоновка библиотек
+## Установка библиотек
 ```
 pip install -r requirements.txt
 ```
